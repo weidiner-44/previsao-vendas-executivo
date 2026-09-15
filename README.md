@@ -39,7 +39,7 @@ Como Executar o Projeto Localmente
 Siga os passos abaixo para rodar o projeto na sua máquina:
 
 1. Clone o repositório:
-git clone [https://github.com/SEU-USUARIO/previsao-vendas-executivo.git](https://github.com/SEU-USUARIO/previsao-vendas-executivo.git)
+git clone [https://github.com/weidiner-44/previsao-vendas-executivo.git](https://github.com/weidiner-44/previsao-vendas-executivo.git)
 cd previsao-vendas-executivo
 
 cd previsao-vendas-executivo
