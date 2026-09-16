@@ -63,4 +63,9 @@ KPIs Executivos: Visão rápida da média diária histórica, faturamento acumul
 
 Gráfico Dinâmico: Linha do tempo unindo o histórico real de vendas com a projeção gerada por Machine Learning.
 
-Tabela de Detalhamento: Expansão de dados para conferir dia a dia o valor previsto pelo modelo.
+Demonstração do Dashboard
+
+Aqui está a visualização final do painel executivo integrado ao SQL Server em modo *Dark Tech*:
+
+![Dashboard Executivo Power BI](assets/dashboard-vendas.png)
+
