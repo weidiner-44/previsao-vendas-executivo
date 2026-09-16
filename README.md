@@ -1,27 +1,29 @@
-# 📊 Sistema de Previsão de Demanda e Dashboard Executivo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://previsao-vendas-executivo-woyvhnmfssimmntutrhvuz.streamlit.app/)
 
-> Sistema inteligente de suporte à decisão voltado para análise de séries temporais de vendas e projeção de cenários futuros, integrando engenharia de dados, modelagem preditiva e visualização executiva.
+Sistema de Previsão de Demanda e Dashboard Executivo
 
----
+Sistema inteligente de suporte à decisão voltado para análise de séries temporais de vendas e projeção de cenários futuros, integrando engenharia de dados, modelagem preditiva e visualização executiva.
 
-## 🚀 Sobre o Projeto
+
+
+Sobre o Projeto
 Este projeto foi desenvolvido para resolver um problema comum em empresas de comércio e varejo: a falta de previsibilidade sobre o faturamento futuro, que costuma gerar excesso de estoque ou ruptura de produtos. 
 
 A solução automatiza a leitura do histórico de vendas, treina um modelo preditivo baseado em machine learning e disponibiliza um painel executivo (Dashboard) interativo em tempo real para gestores.
 
----
 
-## 🛠️ Tecnologias Utilizadas
+
+Tecnologias Utilizadas
 O projeto foi construído utilizando uma stack moderna focada em Python:
-* **Python 3.10+**: Linguagem principal do projeto.
-* **Pandas & NumPy**: Manipulação, limpeza e engenharia de atributos (feature engineering).
-* **Scikit-Learn**: Treinamento do modelo preditivo de Regressão Linear baseado em sazonalidade e tendência temporal.
-* **Streamlit**: Construção do painel web interativo para exibição dos KPIs e gráficos executivos.
+Python 3.10+**: Linguagem principal do projeto.
+Pandas & NumPy**: Manipulação, limpeza e engenharia de atributos (feature engineering).
+Scikit-Learn**: Treinamento do modelo preditivo de Regressão Linear baseado em sazonalidade e tendência temporal.
+Streamlit**: Construção do painel web interativo para exibição dos KPIs e gráficos executivos.
 
----
 
-## 📁 Estrutura do Repositório
-```text
+
+Estrutura do Repositório
+text
 previsao-vendas-executivo/
 │
 ├── data/
