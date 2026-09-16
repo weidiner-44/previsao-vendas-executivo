@@ -67,5 +67,5 @@ Demonstração do Dashboard
 
 Aqui está a visualização final do painel executivo integrado ao SQL Server em modo *Dark Tech*:
 
-![Dashboard Executivo Power BI](assets/dashboard-vendas.png)
+![Dashboard Executivo Power BI](images/dashboard-vendas.png)
 
